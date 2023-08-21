@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0%:8C95FE,100%:D6D9FE&height=200&section=header&text=💻🗯️&fontSize=50&fontAlign=90)
 <div align=center>
-<h4>🍀Tech Stacks</h4>
+<!-- <h4>🍀Tech Stacks</h4>
  <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/><br>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> -->
  
   <h4>···</h4>
 <a href="https://290741.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
