@@ -14,34 +14,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0%:8C95FE,100%:D6D9FE&height=200&section=header&text=💻🗯️&fontSize=50&fontAlign=90)
-<div align=center>
-<!-- <h4>🍀Tech Stacks</h4>
- <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white"/>
- <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
- <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/MyBatis-654FF0?style=flat-square&logo=mybatis&logoColor=white"/>
- <img src="https://img.shields.io/badge/JPA-FFBF3B?style=flat-square&logo=jpa&logoColor=white"/>
- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
- <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br><br>
- 
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
- <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> -->
- 
-  <h4>···</h4>
-<a href="https://290741.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="jhcsbw@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+# Who am I ?
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236232FF&title_bg=%23C7C7C7&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+!-->
 
-</div>
+### Introduction
+<!--
+Hi, I'm JiYeon Son!!<br/>
+I'm ---- <br/> 
+!-->
+????
+
+### Profile
+Name : 손지연 (SonJiYeon) <br/>
+Email : jhcsbw@gmail.com <br/>
+Tech Blog : [blog](https://290741.tistory.com/)
+
+## Tech Skills⚒️
+### Language
+- `Java`
+- `JavaScript`
+- `Kotlin` 
+
+### Back-End
+- `Spring Framework` `Spring Boot` `Spring Security`
+- `JPA` `MyBatis`
+- `Node.js`
+
+### Front-End
+- `HTML` `CSS`
+- `React`
+
+### DBMS
+- `Oracle`
+- `MySQL`
+- `MariaDB`
+
+### Tools & Collaborations
+- `Eclipse` `VSCode` `Android Studio`
+- `Figma` `Notion` `Postman`
+- `Git` `GitHub`
