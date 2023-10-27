@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Jiyeon's%20Github:\)&fontSize=65&fontColor=d0d1fb) 
+![header](https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Jiyeon's%20Github:\)&fontSize=65&fontColor=d0d1fb) 
 
 <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi there! </h4>
 
@@ -55,10 +55,10 @@ I'm Jiyeon Son, a persistent and visionary Web developer <img src="https://raw.g
 <br/>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237F74FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F29074I&count_bg=%237F74FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/>
 </div>
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=D0D1FB&height=190&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=D0D1FB&height=200&section=footer" />
